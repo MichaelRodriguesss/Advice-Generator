@@ -52,11 +52,11 @@ h1 {
   padding: 1.1rem 1.25rem;
   position: absolute;
   cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
 button:hover {
   color: #2dfc52;
   filter: drop-shadow(0 0 2px #2dfc52) drop-shadow(0 0 5px #2dfc52)
     drop-shadow(0 0 15px #2dfc52);
-  transition: all 0.3s ease-in-out;
 }
