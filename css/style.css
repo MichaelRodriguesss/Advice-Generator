@@ -56,7 +56,8 @@ h1 {
 }
 
 button:hover {
-  color: #2dfc52;
-  filter: drop-shadow(0 0 2px #2dfc52) drop-shadow(0 0 5px #2dfc52)
-    drop-shadow(0 0 15px #2dfc52);
+  color: hsl(150, 100%, 66%);
+  filter: drop-shadow(0 0 2px hsl(150, 100%, 66%))
+    drop-shadow(0 0 5px hsl(150, 100%, 66%))
+    drop-shadow(0 0 15px hsl(150, 100%, 66%));
 }
